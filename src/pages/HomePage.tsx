@@ -212,6 +212,8 @@ export default function HomePage() {
           </div>
         </div>
       ))}
+        <h6>ромбу. все права защищены</h6>
+
     </div>
   );
 }
